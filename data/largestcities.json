@@ -1,0 +1,23 @@
+[
+    {
+        "id": "22bc47f1-1dd2-45ab-a9f9-bf5db1cb8610",
+        "name": "tokyo",
+        "area": "2194 km^2",
+        "population": "37 million",
+        "rank": "1"
+    },
+    {
+        "id": "82957d51-a47d-415d-9d74-b639adbeffa9",
+        "name": "delhi",
+        "area": "1483 km^2",
+        "population": "34 million",
+        "rank": "2"
+    },
+    {
+        "id": "b95c6141-d864-4b34-b417-a63e7d0ad6e2",
+        "name": "shanghai",
+        "area": "6340 km^2",
+        "population": "30 million",
+        "rank": "3"
+    }
+]
