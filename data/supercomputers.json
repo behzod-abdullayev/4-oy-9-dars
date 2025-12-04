@@ -1,0 +1,32 @@
+[
+    {
+        "id": "635ec49c-5f28-469c-9b51-a002afb2730e",
+        "name": "el capitan",
+        "country": "united sates",
+        "rank": "1",
+        "cores": "11 039 616",
+        "Rmax": "1 742",
+        "Rpeak": "2 746.38",
+        "power": "29 581kw"
+    },
+    {
+        "id": "b881ebc9-b00a-44d0-a996-a0adc30fb46c",
+        "name": "frontier",
+        "country": "united sates",
+        "rank": "2",
+        "cores": "9 066 176",
+        "Rmax": "1 353",
+        "Rpeak": "2 055.72",
+        "power": "24 607kw"
+    },
+    {
+        "id": "01c0eb26-34f3-4d70-a050-d09aa1eff778",
+        "name": "aurora",
+        "country": "united sates",
+        "rank": "3",
+        "cores": "9,264,128",
+        "Rmax": "1,012.00",
+        "Rpeak": "1,980.01",
+        "power": "38,698kw"
+    }
+]
