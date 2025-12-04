@@ -1,0 +1,74 @@
+[
+    {
+        "id": "88bb598a-483f-4161-84bb-e312ac10980d",
+        "name": "burger",
+        "type": "cheesy, beef",
+        "drink": "with a bottle of pepsi",
+        "time": "21:28:41",
+        "title": "evos",
+        "price": "4$"
+    },
+    {
+        "id": "eeee2c5d-1993-4390-ba70-af76fe906a70",
+        "name": "pizza",
+        "type": "margherita, cheesy",
+        "drink": "with a glass of soda",
+        "time": "21:30:29",
+        "title": "evos",
+        "price": "10$"
+    },
+    {
+        "id": "15dd215d-bdf0-4c9a-8b2f-a282b624b08b",
+        "name": "hotdog",
+        "type": "beef, mustard",
+        "drink": "with a bottle of sprite",
+        "time": "21:30:55",
+        "title": "evos",
+        "price": "3$"
+    },
+    {
+        "id": "bfc233dd-f37d-49e7-8471-30382570ff38",
+        "name": "sandwich",
+        "type": "chicken, fresh vegetables",
+        "drink": "with a juice box",
+        "time": "21:31:4",
+        "title": "evos",
+        "price": "5$"
+    },
+    {
+        "id": "eee12db2-c3fb-4ce1-a32b-04a71ef35cfd",
+        "name": "lavash",
+        "type": "grilled, stuffed",
+        "drink": "with ayran",
+        "time": "21:31:16",
+        "title": "evos",
+        "price": "3$"
+    },
+    {
+        "id": "392093c6-737b-4633-82ec-b6a4bad2bbcd",
+        "name": "nuggets",
+        "type": "crispy, golden",
+        "drink": "with a can of fanta",
+        "time": "21:31:38",
+        "title": "evos",
+        "price": "3$"
+    },
+    {
+        "id": "ffe5e520-eb2c-4240-a724-4fca985fbc9d",
+        "name": "taco",
+        "type": "spicy, beef",
+        "drink": "with a glass of cola",
+        "time": "21:32:49",
+        "title": "evos",
+        "price": "7$"
+    },
+    {
+        "id": "35b00a3e-b673-4a22-9e22-aff3dfe22de5",
+        "name": "fried chicken",
+        "type": "crispy, juicy",
+        "drink": "with a bottle of pepsi",
+        "time": "21:32:24",
+        "title": "evos",
+        "price": "6$"
+    }
+]
